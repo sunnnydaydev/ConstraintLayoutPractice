@@ -23,7 +23,7 @@ This view is not constrained vertically:
         android:textColor="#000000"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintRight_toLeftOf=""
+
         />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
