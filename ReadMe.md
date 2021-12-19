@@ -19,10 +19,7 @@
 6、尺寸相关
 
 - 尺寸限制
-- 0dp
-- spread
-- percent
-- wrap
+- 0dp:
 - Ratio
 
 7、Chains(链)
