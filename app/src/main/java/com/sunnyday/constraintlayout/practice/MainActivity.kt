@@ -12,8 +12,8 @@ const val TAG = "MainActivity"
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.test10)
-        test10()
+        setContentView(R.layout.test12)
+       // test10()
     }
 
     /**
