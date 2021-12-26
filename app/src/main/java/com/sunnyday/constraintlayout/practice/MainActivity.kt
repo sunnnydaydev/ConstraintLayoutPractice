@@ -12,7 +12,7 @@ const val TAG = "MainActivity"
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.test12)
+        setContentView(R.layout.ratio)
        // test10()
     }
 
